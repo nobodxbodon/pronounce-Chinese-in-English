@@ -7,5 +7,10 @@ From [this thought](https://www.reddit.com/r/ChineseLanguage/comments/1stpg79/%E
 | 看 | can |
 | 东 | don, as in "don't" |
 | 西 | she |
+| 办/半/... | ban |
+| 蓝/兰/... | lan, as in "land" |
+| 山/删/衫/... | shan, as in "shank" |
+| 探/谈/贪/... | tan |
+| 但/蛋/弹/... | Dan |
 
 Note: we are looking for the simplest && closest but not necessarily the "accurate" pronounce.
