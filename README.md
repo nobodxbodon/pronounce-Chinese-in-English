@@ -4,6 +4,7 @@ From [this thought](https://www.reddit.com/r/ChineseLanguage/comments/1stpg79/%E
 
 | 字 | Pronounce |
 | ------------- | ------------- |
+| 马/妈 | ma, as in "mama" |
 | 零 | lin, as in "lingual" |
 | 一 | ea in "east" |
 | 二 | the second sound of letter L |
@@ -12,7 +13,7 @@ From [this thought](https://www.reddit.com/r/ChineseLanguage/comments/1stpg79/%E
 | 五 | wu, as my last name or "woo"|
 | 六 | loo, as in "look", which is a dialect to say "六" |
 | 七 | chee, as in "cheese" |
-| 八 | ba, as in "baba"|
+| 八/爸 | ba, as in "baba"|
 | 九 | jail |
 | 个 | goo in "good" |
 | 饿 | er, as in "her" |
