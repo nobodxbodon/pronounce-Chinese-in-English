@@ -4,6 +4,17 @@ From [this thought](https://www.reddit.com/r/ChineseLanguage/comments/1stpg79/%E
 
 | 字 | Pronounce |
 | ------------- | ------------- |
+| 零 | lin, as in "lingual" |
+| 一 | ea, as in "east" |
+| 二 | ? |
+| 三 | san, as in "sand" |
+| 四 | ? |
+| 五 | wu, as my last name or "woo"|
+| 六 | loo, as in "look", which is a dialect to say "六" |
+| 七 | chee, as in "cheese" |
+| 八 | ba, as in "baba"|
+| 九 | jail |
+| 饿 | er, as in "her" |
 | 看 | can |
 | 东 | don, as in "don't" |
 | 西 | she |
@@ -13,4 +24,7 @@ From [this thought](https://www.reddit.com/r/ChineseLanguage/comments/1stpg79/%E
 | 探/谈/贪/... | tan |
 | 但/蛋/弹/... | Dan |
 
-Note: we are looking for the simplest && closest but not necessarily the "accurate" pronounce.
+Note: 
+- we are looking for the simplest && closest but not necessarily the "accurate" pronounce
+- start from the most common sounds and characters, inspired by [this post](https://www.reddit.com/r/ChineseLanguage/comments/1i91d34/use_multiplication_table_to_practice_pronunciation/)
+- pitch is trickier but also worth trying. For example, 's**t!' has the first part as 谢, the 4th pitch.
