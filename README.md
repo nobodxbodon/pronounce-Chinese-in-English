@@ -5,15 +5,16 @@ From [this thought](https://www.reddit.com/r/ChineseLanguage/comments/1stpg79/%E
 | 字 | Pronounce |
 | ------------- | ------------- |
 | 零 | lin, as in "lingual" |
-| 一 | ea, as in "east" |
-| 二 | ? |
-| 三 | san, as in "sand" |
-| 四 | ? |
+| 一 | ea in "east" |
+| 二 | the second sound of letter L |
+| 三 | san in "sand" |
+| 四 | see |
 | 五 | wu, as my last name or "woo"|
 | 六 | loo, as in "look", which is a dialect to say "六" |
 | 七 | chee, as in "cheese" |
 | 八 | ba, as in "baba"|
 | 九 | jail |
+| 个 | goo in "good" |
 | 饿 | er, as in "her" |
 | 看 | can |
 | 东 | don, as in "don't" |
